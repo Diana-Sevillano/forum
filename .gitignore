@@ -1,3 +1,4 @@
 installdisable
 files
 cache
+/config.php
